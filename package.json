@@ -3,7 +3,7 @@
 	"version" : "0.0.1",
 	"description" : "Haraka mail plugin to communicate with Dovecot. Exist Mailbox and Login via SMTP.",
 	"author" : {
-		"name" : "Josef Fröhle",
+		"name" : "Josef FrÃ¶hle",
 		"email" : "github@josef-froehle.de",
 		"url" : "https://www.josef-froehle.de/"
 	},
@@ -43,7 +43,7 @@
 		"grunt-mocha-test" : "*",
 		"grunt-version-check" : "*",
 		"eslint" : "*",
-		"grunt-eslint" : "*",
+		"grunt-eslint" : ">=20.2.0",
 		"mocha" : "*"
 	},
 	"license" : "MIT",
